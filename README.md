@@ -1,1 +1,1 @@
-run `parcel ./src/index.html` from the route directory.
+run `parcel ./src/index.html` from the root directory.
